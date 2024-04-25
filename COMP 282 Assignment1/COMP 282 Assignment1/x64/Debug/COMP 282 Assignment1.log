@@ -1,0 +1,15 @@
+﻿  COMP 282 Assignment1.cpp
+C:\Users\sandr\source\repos\COMP 282 Assignment1\COMP 282 Assignment1\COMP 282 Assignment1.cpp(18,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sandr\source\repos\COMP 282 Assignment1\COMP 282 Assignment1\COMP 282 Assignment1.cpp(25,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sandr\source\repos\COMP 282 Assignment1\COMP 282 Assignment1\COMP 282 Assignment1.cpp(32,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sandr\source\repos\COMP 282 Assignment1\COMP 282 Assignment1\COMP 282 Assignment1.cpp(46,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sandr\source\repos\COMP 282 Assignment1\COMP 282 Assignment1\COMP 282 Assignment1.cpp(67,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sandr\source\repos\COMP 282 Assignment1\COMP 282 Assignment1\COMP 282 Assignment1.cpp(73,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sandr\source\repos\COMP 282 Assignment1\COMP 282 Assignment1\COMP 282 Assignment1.cpp(79,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sandr\source\repos\COMP 282 Assignment1\COMP 282 Assignment1\COMP 282 Assignment1.cpp(86,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sandr\source\repos\COMP 282 Assignment1\COMP 282 Assignment1\COMP 282 Assignment1.cpp(102,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sandr\source\repos\COMP 282 Assignment1\COMP 282 Assignment1\COMP 282 Assignment1.cpp(114,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sandr\source\repos\COMP 282 Assignment1\COMP 282 Assignment1\COMP 282 Assignment1.cpp(126,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sandr\source\repos\COMP 282 Assignment1\COMP 282 Assignment1\COMP 282 Assignment1.cpp(276,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sandr\source\repos\COMP 282 Assignment1\COMP 282 Assignment1\COMP 282 Assignment1.cpp(282,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  COMP 282 Assignment1.vcxproj -> C:\Users\sandr\source\repos\COMP 282 Assignment1\x64\Debug\COMP 282 Assignment1.exe
